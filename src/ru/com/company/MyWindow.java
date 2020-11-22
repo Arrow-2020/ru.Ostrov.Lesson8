@@ -49,8 +49,6 @@ public class MyWindow extends JFrame
 
                 });
         panel.add(btn2);
-
         add(panel, BorderLayout.SOUTH); // размещение кнопки
     }
 }
-
